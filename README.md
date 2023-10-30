@@ -24,6 +24,18 @@
 
 ---
 
+# Temas puntuales de la sección
+
+### ¿Qué veremos en esta sección?
+
+Revisar los 3 bloques principales para el diseño de aplicaciones en React Native:
+
+- Box Object Model (alto, ancho, borde, margen, padding)
+- Position (absoluta, relativa, top, bottom, left, right)
+- Flex Layout (Flex Box para react native: dirección, ubicación, alineamiento, estirar, encoger, proporciones)
+
+---
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
