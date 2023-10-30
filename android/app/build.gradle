@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.reactnativetscounterapp"
+    namespace "com.reactnativetsintrocourseapp"
     defaultConfig {
-        applicationId "com.reactnativetscounterapp"
+        applicationId "com.reactnativetsintrocourseapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
